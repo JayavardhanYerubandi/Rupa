@@ -172,6 +172,10 @@ span{
         height: auto;
         width: 100%;
     }
+    .img3{
+        height: auto;
+        width: 100%
+    }
     .edu-1, .edu-2, .education{
         flex-direction: column;
     }
